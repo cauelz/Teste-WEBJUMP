@@ -1,0 +1,46 @@
+body {
+    width: 100%;
+}
+
+
+#pesquisa {
+    background-color: #CC0D1F;
+}
+
+#acesso {
+    background-color: #231F20;
+    height: 24px;
+    font-size: 12px;
+    align-items: center;
+}
+
+.login {
+    margin-right: 15%;
+}
+
+
+.navbar-nav, .navbar-brand {
+    margin-left: 15%;
+}
+
+.form-inline {
+    margin-right: 15%;
+}
+
+.filtros {
+    
+    margin-top: 80px;
+    margin-left: 15%;
+}
+
+.filtro {
+    margin: 12px;
+    width: 200px;
+    color: #CC0D1F;
+}
+
+h5 {
+    
+    color: #80BDB8;
+    margin: 12px;
+}
